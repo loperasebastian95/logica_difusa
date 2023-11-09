@@ -1,0 +1,19 @@
+[
+    {
+        "nombreMateria": "prueba",
+        "datosMateria": [
+            {
+                "nombreRubrica": "11",
+                "operador1": "Mayor",
+                "operador2": "Mayor",
+                "operador3": "Entre",
+                "valorBajoInicial": "33",
+                "valorBajoFinal": "33",
+                "valorMedioInicial": "33",
+                "valorMedioFinal": "33",
+                "valorAltoInicial": "33",
+                "valorAltoFinal": "33"
+            }
+        ]
+    }
+]
