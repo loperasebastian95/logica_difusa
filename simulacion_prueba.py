@@ -1,6 +1,7 @@
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
+import matplotlib.pyplot as plt
 
 # Universo de entrada para las calificaciones (porcentaje de 0 a 100)
 calificacion_matematicas = ctrl.Antecedent(np.arange(0, 101, 1), 'Calificación Matemáticas')
