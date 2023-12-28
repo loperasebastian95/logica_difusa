@@ -16,5 +16,42 @@
             "valorAltoInicial": "4.0",
             "valorAltoFinal": "5.0"
         }
+    },
+
+{
+        "nombreMateria": "Biologia",
+        "datosMateria": {
+            "nombreRubrica": "Nro1",
+            "operador1": "Entre",
+            "operador2": "Entre",
+            "operador3": "Entre",
+            "operador4": "Entre",
+            "valorBajoInicial": "0",
+            "valorBajoFinal": "2.9",
+            "valorAceptableInicial": "3.0",
+            "valorAceptableFinal": "3.5",
+            "valorMedioInicial": "3.6",
+            "valorMedioFinal": "4.0",
+            "valorAltoInicial": "4.0",
+            "valorAltoFinal": "5.0"
+        }
+    },
+{
+        "nombreMateria": "Sociales",
+        "datosMateria": {
+            "nombreRubrica": "Nro1",
+            "operador1": "Entre",
+            "operador2": "Entre",
+            "operador3": "Entre",
+            "operador4": "Entre",
+            "valorBajoInicial": "0",
+            "valorBajoFinal": "2.9",
+            "valorAceptableInicial": "3.0",
+            "valorAceptableFinal": "3.5",
+            "valorMedioInicial": "3.6",
+            "valorMedioFinal": "4.0",
+            "valorAltoInicial": "4.0",
+            "valorAltoFinal": "5.0"
+        }
     }
 ]
